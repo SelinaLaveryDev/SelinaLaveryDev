@@ -1,6 +1,6 @@
 ## Hi there 👋
 - 👋 Hi, I’m @SelinaLaveryDev
-- 🌱 I’m currently learning TypeScript and Redux
+- 🌱 I’m currently learning TypeScript, Golang and Redux
 - 👩🏻‍💻 Visit my [portfolio website](https://selinalaverydev.github.io/selina-dev-portfolio/)
 <!--
 **SelinaLaveryDev/SelinaLaveryDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
