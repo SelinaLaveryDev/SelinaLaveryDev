@@ -1,6 +1,7 @@
 ## Hi there 👋
 - 👋 Hi, I’m @SelinaLaveryDev
-- 🌱 I’m currently learning TypeScript, Golang and Redux
+- 🌱 I’m currently learning (as of 15th Feb 2025) Next.js - see my repo's!
+- 🧭 Next stop? to learn TypeScript
 - 👩🏻‍💻 Visit my [portfolio website](https://selinalaverydev.github.io/selina-dev-portfolio/)
 <!--
 **SelinaLaveryDev/SelinaLaveryDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
