@@ -1,7 +1,8 @@
 ## Hi there 👋
 - 👋 Hi, I’m @SelinaLaveryDev
-- 🌱 I’m currently learning (as of 15th Feb 2025) Next.js - see my repo's!
-- 🧭 Next stop? to learn TypeScript
+- 🌱 I’m currently learning (as of 15th Feb 2025) **Next.js** - see my repo's!
+- ⭐️ Also have just completed the FreeCodeCamp Responsive Web Design course, with certificate! See my [linkedIn](https://www.linkedin.com/in/selina-lavery/)
+- 🧭 Next stop? to learn **TypeScript** and brush up on JS skills.
 - 👩🏻‍💻 Visit my [portfolio website](https://selinalaverydev.github.io/selina-dev-portfolio/)
 <!--
 **SelinaLaveryDev/SelinaLaveryDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
