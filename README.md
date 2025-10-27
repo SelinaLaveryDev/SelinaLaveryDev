@@ -1,13 +1,12 @@
 ## Hi there 👋
 - 👋 Hi, I’m @SelinaLaveryDev
-- 🌱 I’m currently splitting my time between:
-  -  Completing the **Next.js** tutorial on https://nextjs.org/
-  -  Completing the **JavaScript Algorithms and Data Structures** course on FreeCodeCamp
-  -  Building **front end designs** on Frontend Mentor
-  -  Job hunting!! 🔎
-        
-- 🏅 Also have just completed the **FreeCodeCamp Responsive Web Design course, with certificate!** See my [linkedIn](https://www.linkedin.com/in/selina-lavery/)
-- 🧭 Next stop? to learn **TypeScript** and **Vue.js**
+- 💻 Front-End Developer with a background in marketing, training, and communications
+- 🔭 I’m currently working with a London-based startup, building a React app prototype and collaborating remotely with a small team
+- 🌱 I’m currently learning TypeScript and diving deeper React
+- 👯 I’m looking to collaborate on creative front-end projects that focus on clean UI and great UX
+- 💬 Ask me about HTML, CSS, React, Figma, Webflow, and Bubble.io   
+- 📫 How to reach me: selinalavery@gmail.com or connect on [linkedIn](https://www.linkedin.com/in/selina-lavery/)
+- ⚡ Fun fact: I built my local swim club’s website as a volunteer project after bootcamp — now I maintain it and keep it running smoothly!
 - 👩🏻‍💻 Visit my [portfolio website](https://selinalaverydev.github.io/selina-dev-portfolio/)
 <!--
 **SelinaLaveryDev/SelinaLaveryDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
